@@ -4,7 +4,7 @@
 
 I am an [educated](http://koelnerjournalistenschule.de) journalist and a self-made developer.
 
-When **writing**, I'm into economics & politics in other countries, [for example in Rwanda](http://www.n-tv.de/politik/Das-Musterland-Afrikas-steht-unter-Spannung-article12607351.html). I'm also the founder of an [award-winning](http://www.procampuspresse.de/index.rnd?module=contest;submodule=awards;id=10) [students magazine](http://www.ksz-internet.de/). In 2015, I was a fellow of the [Vocer Medialab](http://www.vocer.org/medialab/).
+When **writing**, I'm into economics & politics in other countries, [for example in Rwanda](http://www.n-tv.de/politik/Das-Musterland-Afrikas-steht-unter-Spannung-article12607351.html). I'm also the founder of an [award-winning](http://www.procampuspresse.de/index.rnd?module=contest;submodule=awards;id=10) [students magazine](http://www.ksz-internet.de/). In 2015, I was a fellow of the [Vocer Medialab](http://www.vocer.org/medialab/). Plus, I organize a series of [meetups](http://www.meetup.com/DDJ-Taskforce-NRW/) related to data driven journalism.
 
 When **developing**, I'm into [django](https://djangoproject.com), [reactjs](https://facebook.github.io/react/) and do also some data wrangling with [pandas](http://pandas.pydata.org/) (and yeah, even [R](https://www.r-project.org/), because every data journalist does that, right?) or some visualisations with [several](https://d3js.org) [other](http://leafletjs.com) [libraries](http://bokeh.pydata.org/en/latest/). Of course, live would be much easier if I'd use the same libraries more often instead of always checking out [new ones](http://riotjs.com/). I highly prefer employers and projects related to **open data**, **civic tech**, **journalism** or **non-profit**-stuff.
 
