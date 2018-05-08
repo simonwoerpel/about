@@ -21,7 +21,12 @@ skills during my ten years of experience as a freelance web developer.
 - data wrangling / analysis
 - document processing
 - [data visualisations](https://github.com/correctiv?utf8=%E2%9C%93&q=viz-)
-
+- **technology:**
+    - [pandas](https://pandas.pydata.org/) – python framework for data analysis
+    - [d3js](https://d3js.org/) – javascript framework for data visualisation
+    - [apache tika](https://tika.apache.org/) – toolkit for documents processing
+    - [elasticsearch](https://www.elastic.co/) – search engine
+    - [django](https://www.djangoproject.com/) – python framework for web applications
 
 ### Recent Projects
 - a series of [data analysis and visualisations](https://www.medienrevolte.de/projects/minijobs/) about mini-jobbers (low wage, no benefits) in germany

@@ -22,6 +22,12 @@ als freiberuflicher Web-Entwickler.
 - Datenanalyse
 - Arbeiten mit großen Dokument-Sammlungen (Leaks)
 - [Visualisierungen](https://github.com/correctiv?utf8=%E2%9C%93&q=viz-)
+- **Tools:**
+    - [pandas](https://pandas.pydata.org/) – Python-Framework für Datenanalyse
+    - [d3js](https://d3js.org/) – Javascript-Framework für Visualisierungen
+    - [apache tika](https://tika.apache.org/) – Toolkit zur Dokumentenanalyse
+    - [elasticsearch](https://www.elastic.co/) – Datenbank zur Volltextsuche
+    - [django](https://www.djangoproject.com/) – Python-Framework für Web-Anwendungen
 
 
 ### Aktuelle Projekte
