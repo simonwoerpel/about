@@ -6,12 +6,12 @@
 ## Datenjournalist und Newsroom-Entwickler
 
 Ich arbeite als Datenjournalist beim gemeinnützigen Recherchezentrum
-[correctiv.org](https://correctiv.org) in Berlin.
+[CORRECTIV](https://correctiv.org) in Berlin.
 
 Dort arbeite ich mit verschiedensten Datensätzen und Dokumenten, um daraus mit
 Kolleg*innen [Geschichten](https://correctiv.org/correctiv/redaktion/team/simon-woerpel/)
 und manchmal auch [Visualisierungen](https://github.com/correctiv?utf8=%E2%9C%93&q=viz-)
-zu stricken. Außerdem arbeite ich im [correctiv nerds team](https://correctiv.org/nerds/)
+zu stricken. Außerdem arbeite ich im [CORRECTIV nerds team](https://correctiv.org/nerds/)
 an innovativen Tools, die investigativen Journalismus voranbringen.
 
 Ich habe Journalismus, Volkswirtschaftslehre und Politik in Köln studiert.
@@ -19,8 +19,9 @@ Meine Programmier-Kenntnisse erwarb ich während meiner zehnjährigen Erfahrung
 als freiberuflicher Web-Entwickler.
 
 ### Datenjournalismus
-- Datenanalyse
-- Arbeiten mit großen Dokument-Sammlungen (Leaks)
+- Daten-getriebene Recherche & Storytelling
+- Datenanalyse und Datenvisualisierung
+- Arbeiten mit großen [Dokument-Sammlungen (Leaks)](https://cumex-files.com)
 - [Visualisierungen](https://github.com/correctiv?utf8=%E2%9C%93&q=viz-)
 - **Tools:**
     - [pandas](https://pandas.pydata.org/) – Python-Framework für Datenanalyse
@@ -31,6 +32,7 @@ als freiberuflicher Web-Entwickler.
 
 
 ### Aktuelle Projekte
+- [#CumExFiles](https://cumex-files.com) – Entwicklung der Recherche-Datenbank, Sicherheits-Infrastruktur sowie der Präsentations-Website einer kollaborativen Cross-Border-Recherche mit 38 Journalisten aus 12 Ländern
 - [Datenanalysen und Visualisierungen](https://www.medienrevolte.de/projects/minijobs/) zu Minijobbern in Deutschland
 - Technische Entwicklung zweier Prototypen für bürgerbasierte Recherchen mit dem [CrowdNewsroom](https://www.medienrevolte.de/projects/crowdnewsroom/) und datenjournalistische Betreuung [der dritten Recherche](https://wem-gehoert-hamburg.de) mit diesem Tool.
 - Daten-Befreier und Backend-Entwickler hinter [datengui.de](http://datengui.de/), einem Nebenprojekt, das Daten der [Statistischen Landesämter](http://regionalstatistik.de) in einer [Schnittstelle](https://github.com/datenguide/datenguide-backend#how-to-query-data) leichter zugänglich macht.
@@ -42,11 +44,11 @@ als freiberuflicher Web-Entwickler.
 - Gründer und ehemaliger Chefredakteur eines
 [preisgekrönten](http://www.procampuspresse.de/index.rnd?module=contest;submodule=awards;id=10) [Studenten-Magazins](http://www.ksz-internet.de/).
 - [Workshops, Meetups und ein Fellowship-Programm](https://correctiv.org/bildung/ddj/) für lokalen und regionalen Datenjournalismus
-- Meine Arbeiten bei correctiv.org wurden unter anderem mit dem *Deutschen
+- Meine Arbeiten bei CORRECTIV wurden unter anderem mit dem *Deutschen
 Reporterpreis* ausgezeichnet sowie für den *Nannen Preis* nominiert. Außerdem erwähnte mich das Medium Magazin 2017 in seiner Liste der [Top 30 bis 30 Talente](https://www.mediummagazin.de/mm052017-meldung-top30bis30/) im Journalismus.
 
 ### Stationen
-- [correctiv.org](https://correctiv.org), Essen/Berlin (seit 2015/03), *Datenjournalist*
+- [CORRECTIV](https://correctiv.org), Essen/Berlin (seit 2015/03), *Datenjournalist*
 - Projektmitarbeit bei [Zeit Online](http://www.zeit.de/), u.a. für eine [interaktive Karte](http://www.zeit.de/2015/24/medikamenten-sucht-beruhigungsmittel-schlafmittel) (2015/05 – 06)
 - [WDR5](http://www1.wdr.de/radio/wdr5/index.html), Köln (2013/08 – 2014/12), *Produktionsassistenz*
 - [Sächsische Zeitung](http://www.sz-online.de/), Dresden (2014/08 – 10), *Praktikum*
