@@ -3,21 +3,27 @@
 - simon.woerpel@medienrevolte.de
 - https://medienrevolte.de
 
-## Data Journalist and Newsroom Developer
+## Investigative data journalist
 
-I work as a data journalist at [CORRECTIV](https://correctiv.org), a
-journalism non-profit based in Berlin, Germany.
+I can deal with huge leaks, research and clean up big datasets and build
+software that helps investigative journalists to tell stories. I am a trained
+journalist.
 
-I am specialized in data wrangling, data analysis and documents processing to
-assist my colleagues to tell
+Until mid 2019, I worked as a data journalist at
+[CORRECTIV](https://correctiv.org), a journalism non-profit based in Berlin,
+Germany.
+
+There I [wrangled data](https://correctiv.org/aktuelles/wem-gehoert-hamburg/2019/02/05/mieten-unter-palmen)
+and [processed](https://grandthefteurope.com) [documents](https://cumex-files.com/en/)
+to assist my colleagues to tell
 [stories](https://correctiv.org/correctiv/redaktion/team/simon-woerpel/).
-Within the [CORRECTIV nerds team](https://correctiv.org/nerds/), I work on
-innovative tools that empower computer assisted investigative reporting.
+I also worked on [innovative software](https://medienrevolte.de/software) that
+empower computer assisted investigative reporting.
 
 I studied journalism, economics and politics in cologne and got my coding
 skills during my ten years of experience as a freelance web developer.
 
-### Data Journalism Skills
+### skills
 - data-driven research and storytelling
 - data wrangling / analysis
 - [document processing](https://cumex-files.com/en/)
@@ -30,6 +36,13 @@ skills during my ten years of experience as a freelance web developer.
     - [django](https://www.djangoproject.com/) – python framework for web applications
 
 ### Recent Projects
+- [Grand Theft Europe](http://grandthefteurope.com) – making a big bunch of
+  (really huge) confidential documents searchable and securely accessible for
+  63 journalists from 30 countries to work collaboratively on this
+  investigation, providing security infrastructure and trainings – and a
+  [little visualisation](https://correctiv.org/en/top-stories-en/2019/05/07/grand-theft-europe/#viz)
+- [Mieten unter Palmen (german)](https://correctiv.org/aktuelles/wem-gehoert-hamburg/2019/02/05/mieten-unter-palmen) – deal with several big company datasets to follow crowdsourced data into offshore leaks data
+- [Wem gehört Hamburg (german)](https://wem-gehoert-hamburg.de) – the kick off of CORRECTIV's "Who owns your city" crowdsourced investigations
 - [#CumExFiles](https://cumex-files.com/en/) – research database, security infrastructure & presentation website for a collaborative cross-border investigation with 38 journalists in 12 countries
 - a series of [data analysis and visualisations](https://www.medienrevolte.de/projects/minijobs/) about mini-jobbers (low wage, no benefits) in germany
 - I was the developer behind the first two investigations with the [CrowdNewsroom](https://www.medienrevolte.de/projects/crowdnewsroom/) and involved as data journalist in [the third one](https://wem-gehoert-hamburg.de).
@@ -38,14 +51,14 @@ skills during my ten years of experience as a freelance web developer.
 
 ### Misc
 
+- My work at CORRECTIV was rewarded with the *Grimme Online Award* (2018), the *Deutscher Reporterpreis* (2016) and nominated (2017) and shortlisted (2018) for the *Nannen Preis*. In 2017, the Medium Magazin mentioned me in their list of the
+  [top 30 young journalism talents](https://www.mediummagazin.de/mm052017-meldung-top30bis30/).
 - In 2015, I was a fellow of the [Vocer Medialab](http://www.vocer.org/medialab/).
 - I'm the founder of an
 [award-winning](http://www.procampuspresse.de/index.rnd?module=contest;submodule=awards;id=10) [students magazine](http://www.ksz-internet.de/).
 - I organized a series of [workshops and
 meetups](https://correctiv.org/bildung/ddj/) related to data driven journalism
 in local or regional newsrooms.
-- My work at CORRECTIV was rewarded (amongst others) with the *Deutscher
-Reporterpreis* and nominated for the *Nannen Preis*. In 2017, the Medium Magazin mentioned me in their list of the [top 30 young journalism talents](https://www.mediummagazin.de/mm052017-meldung-top30bis30/).
 
 ### Working Experience
 - [CORRECTIV](https://correctiv.org), Essen/Berlin (since 2015/03), *data journalist*
