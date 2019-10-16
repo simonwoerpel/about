@@ -51,10 +51,15 @@ als freiberuflicher Web-Entwickler.
 
 ### Sonstiges
 
-- Meine Arbeiten bei CORRECTIV wurden unter anderem mit dem *Grimme Online Award*
-  und dem *Deutschen Reporterpreis* ausgezeichnet sowie für den *Nannen Preis*
-  nominiert und shortlisted. Außerdem erwähnte mich das Medium Magazin 2017 in
-  seiner Liste der
+- Meine Arbeiten bei CORRECTIV wurden unter anderem mit dem 
+  [*Grimme Online Award (2019)*](https://www.grimme-online-award.de/2019/preistraeger/alle/), 
+  dem [*Helmut Schmidt Journalistenpreis (2019)*](https://www.helmutschmidtjournalistenpreis.de/preistraeger/2019/), 
+  dem [*Otto Brenner Preis für kritischen Journalismus (2019)*](https://www.otto-brenner-preis.de/dokumentation/2019/preistraeger/1-preis/),
+  und dem [*Reporterpreis (2016)*](http://www.reporter-forum.de/index.php?id=229)
+  ausgezeichnet sowie für den *Nannen Preis* nominiert (2017) und shortlisted (2018). 
+  Mit dem CORRECTIV-Team waren wir für die CumEx-Recherche 
+  [*Team des Jahres (Platz 3) des medium magazin (2018)*](https://www.mediummagazin.de/preistraeger/journalisten-des-jahres/2018/cum-ex/) 
+  Außerdem erwähnte mich das Medium Magazin 2017 in seiner Liste der
   [Top 30 bis 30 Talente](https://www.mediummagazin.de/mm052017-meldung-top30bis30/) im
   Journalismus.
 - 2015 Fellow im [Vocer Medialab](http://www.vocer.org/medialab/).
