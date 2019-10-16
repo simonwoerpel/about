@@ -50,8 +50,15 @@ skills during my ten years of experience as a freelance web developer.
 
 
 ### Misc
-
-- My work at CORRECTIV was rewarded with the *Grimme Online Award* (2018), the *Deutscher Reporterpreis* (2016) and nominated (2017) and shortlisted (2018) for the *Nannen Preis*. In 2017, the Medium Magazin mentioned me in their list of the
+- My work at CORRECTIV was rewarded with the
+  [*Grimme Online Award (2019)*](https://www.grimme-online-award.de/2019/preistraeger/alle/), 
+  the [*Helmut Schmidt Journalistenpreis (2019)*](https://www.helmutschmidtjournalistenpreis.de/preistraeger/2019/), 
+  the [*Otto Brenner Preis für kritischen Journalismus (2019)*](https://www.otto-brenner-preis.de/dokumentation/2019/preistraeger/1-preis/),
+  and the [*Reporterpreis (2016)*](http://www.reporter-forum.de/index.php?id=229)
+  as well as nominated (2017) and shortlisted (2018) for the *Nannen Preis*.
+  In 2018, the CORRECTIV-Team was 
+  [*Team des Jahres (Platz 3) des medium magazin (2018)*](https://www.mediummagazin.de/preistraeger/journalisten-des-jahres/2018/cum-ex/) 
+- In 2017, the Medium Magazin mentioned me in their list of the
   [top 30 young journalism talents](https://www.mediummagazin.de/mm052017-meldung-top30bis30/).
 - In 2015, I was a fellow of the [Vocer Medialab](http://www.vocer.org/medialab/).
 - I'm the founder of an
