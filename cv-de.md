@@ -56,7 +56,7 @@ als freiberuflicher Web-Entwickler.
   dem [*Helmut Schmidt Journalistenpreis (2019)*](https://www.helmutschmidtjournalistenpreis.de/preistraeger/2019/), 
   dem [*Otto Brenner Preis für kritischen Journalismus (2019)*](https://www.otto-brenner-preis.de/dokumentation/2019/preistraeger/1-preis/),
   und dem [*Reporterpreis (2016)*](http://www.reporter-forum.de/index.php?id=229)
-  ausgezeichnet sowie für den *Nannen Preis* nominiert (2017) und shortlisted (2018). 
+  ausgezeichnet sowie für den *Nannen Preis* nominiert (2017, 2019) und shortlisted (2018). 
   Mit dem CORRECTIV-Team waren wir für die CumEx-Recherche 
   [*Team des Jahres (Platz 3) des medium magazin (2018)*](https://www.mediummagazin.de/preistraeger/journalisten-des-jahres/2018/cum-ex/) 
   Außerdem erwähnte mich das Medium Magazin 2017 in seiner Liste der
