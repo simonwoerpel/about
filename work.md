@@ -1,8 +1,8 @@
 # Projects
 
 ### contact simon
-* simon.woerpel@pm.me
-* https://simonwoerpel.de
+* simon@investigativedata.org
+* https://investigativedata.io
 * https://github.com/simonwoerpel
 * verified identities: https://keybase.io/simonwoerpel
 

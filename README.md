@@ -1,6 +1,7 @@
 # Simon Wörpel
 
 ## Investigative Data Journalist
+* Founder [investigativedata.io](https://investigativedata.io)
 * [More about my work](./work.md)
 
 ### contact
@@ -17,12 +18,14 @@ or whatever.*
 **english**
 
 Simon Wörpel is an independent investigative data journalist, researcher and
-leak librarian. He specializes in documents processing, data engineering and
-data analysis for journalistic investigations. Simon works for different
-non-profit organizations, newspapers and media outlets in germany. There he
-advises and implements software tools for research teams to enable data mining,
-documents processing and data analysis to enable data-driven investigative
-journalism.
+leak librarian. In 2023, he founded
+[investigativedata.io](https://investigativedata.io), an independent tech
+organization for investigative journalism. He specializes in documents
+processing, data engineering and data analysis for journalistic investigations.
+Simon works for different non-profit organizations, newspapers and media
+outlets in germany. There he advises and implements software tools for research
+teams to enable data mining, documents processing and data analysis to enable
+data-driven investigative journalism.
 
 From 2015 to 2019 he worked as a data journalist and newsroom developer at the
 german non-profit investigative newsroom [CORRECTIV](https://correctiv.org).
@@ -38,12 +41,14 @@ in cologne, germany.
 
 **german**
 
-Simon Wörpel ist unabhängiger investigativer Datenjournalist, Rechercheut und
-Leak-Bibliothekar. Er ist spezialisiert auf Dokumenten- und Datenverarbeitung
-und Analyse für journalistische Recherchen, und arbeitet für verschiedene
-Redaktionen und Organisationen. Dort berät und implementiert er technische
-Lösungen für Rechercheteams, die kollaborativen datengetriebenen
-Investigativjournalismus ermöglichen.
+Simon Wörpel ist unabhängiger investigativer Datenjournalist, Rechercheur und
+Leak-Bibliothekar. 2023 gründete er
+[investigativedata.io](https://investigativedata.io), eine unabhängige
+Tech-Organisation für investigativen Journalismus. Er ist spezialisiert auf
+Dokumenten- und Datenverarbeitung und Analyse für journalistische Recherchen,
+und arbeitet für verschiedene Redaktionen und Organisationen. Dort berät und
+implementiert er technische Lösungen für Rechercheteams, die kollaborativen
+datengetriebenen Investigativjournalismus ermöglichen.
 
 Simon war bis Mitte 2019 investigativer Datenjournalist beim gemeinnützigen
 Recherchezentrum [CORRECTIV](https://correctiv.org). Dort baute er zuletzt
