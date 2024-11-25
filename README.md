@@ -10,6 +10,11 @@
 * https://github.com/simonwoerpel
 * verified identities: https://keybase.io/simonwoerpel
 
+### picture
+Image credits: [Ivo Mayr](https://www.ivomayr.com/)
+* [16:9](./simon-woerpel_foto-ivo-mayr.jpg)
+* [square](./simon-woerpel_foto-ivo-mayr_sq.jpg)
+
 ### abstract
 
 *please feel free to use these bio snippets, e.g. for your conference programme
